@@ -1,0 +1,130 @@
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\QLCF.exe.config
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\QLCF.exe
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\QLCF.pdb
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.AssemblyReference.cache
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.SuggestedBindingRedirects.cache
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.exe
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.pdb
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fLogin.resources
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fAccount.resources
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fMain.resources
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fAdmin.resources
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.CopyComplete
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\x86\SqlServerSpatial160.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\x64\SqlServerSpatial160.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\EnvDTE.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\stdole.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\THLapTrinhWindow\DoAnCongNghePhanMem\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\x86\SqlServerSpatial160.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\x64\SqlServerSpatial160.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\QLCF.exe.config
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\QLCF.exe
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\QLCF.pdb
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\EnvDTE.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\stdole.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.AssemblyReference.cache
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.SuggestedBindingRedirects.cache
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fAccount.resources
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fAdmin.resources
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fLogin.resources
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.fMain.resources
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.cache
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.CoreCompileInputs.cache
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.csproj.CopyComplete
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.exe
+D:\DATA\HocTap\Thực hành LTWindow\Nhóm2_QuanLyQuanCoffe\SourceCode\QLCF\QLCF\obj\Debug\QLCF.pdb
